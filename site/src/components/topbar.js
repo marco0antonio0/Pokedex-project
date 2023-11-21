@@ -34,7 +34,9 @@ export default function AppBar({ state = [false, false, false] }) {
             sobre
           </h3>
           <h3
-            onClick={() => r.push("https://github.com/marco0antonio0/Pokedex")}
+            onClick={() =>
+              r.push("https://github.com/marco0antonio0/Pokedex-project")
+            }
             className={`font-Lalezar text-2xl pt-5  active:scale-[1.05] cursor-pointer  ${
               !state[2] ? "text-vermelho_drop" : "text-vermelho"
             } `}
@@ -79,7 +81,9 @@ export default function AppBar({ state = [false, false, false] }) {
             sobre
           </h3>
           <h3
-            onClick={() => r.push("https://github.com/marco0antonio0/Pokedex")}
+            onClick={() =>
+              r.push("https://github.com/marco0antonio0/Pokedex-project")
+            }
             className={`font-Lalezar text-2xl pt-5 active:scale-[1.05]  ${
               !state[2] ? "text-vermelho_drop" : "text-vermelho"
             } `}
