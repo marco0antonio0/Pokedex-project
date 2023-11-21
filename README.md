@@ -1,80 +1,62 @@
-# Projeto ToperCursos
+# Projeto Pokedex
 
-![img](/imagesReadme/bannerrrr.png)
+![img](/image_readme/art1.png)
 
-Bem-vindo ao ToperCursos, sua plataforma online para explorar, adquirir e aprimorar habilidades através de uma variedade de cursos emocionantes. Desenvolvido em Next.js, o ToperCursos oferece uma experiência de aprendizado avançada, alimentada por atualizações contínuas e uma integração dinâmica com nosso banco de dados.
+## Descrição do Projeto
 
-## Acesso rapido
+O Projeto Pokedex é uma aplicação web desenvolvida em Next.js que oferece uma experiência interativa relacionada ao universo Pokémon. A proposta inicial inclui a utilização de um banco de dados, o consumo de uma API e a criação de páginas front-end.
 
-- [Arquivos do site](/api/)
-- [Arquivos da api](/site/)
+### Páginas Principais
 
-## Páginas Principais
+1. **Home:**
 
-### 1. **Home**
+   - Apresenta um menu de acesso com 3 botões distintos.
+   - Lista os Pokémon disponíveis.
 
-- Explore as últimas novidades em cursos.
-- Descubra ofertas exclusivas e cursos em destaque.
-- Navegação intuitiva para uma experiência de usuário envolvente.
+2. **Pokemon:**
 
-### 2. **Cursos**
+   - Fornece informações gerais sobre um Pokémon específico.
+   - Detalhes sobre habilidades, fraquezas e tipo do Pokémon.
 
-- Uma ampla gama de cursos disponíveis.
-- Filtragem fácil por categoria, instrutor ou nível de dificuldade.
-- Detalhes abrangentes sobre cada curso.
+3. **Sorteio de Pokemon:**
 
-### 3. **Página do Curso**
+   - Permite a visualização de informações gerais sobre um Pokémon sorteado.
+   - Apresenta detalhes sobre habilidades, fraquezas e tipo do Pokémon sorteado.
 
-- Informações detalhadas sobre o curso selecionado.
-- Módulos, requisitos e métodos de ensino destacados.
-- Facilidade de compra com nosso processo simplificado.
+4. **Sobre:**
+   - Conta a história do projeto, destacando sua criação e evolução.
 
-### 4. **Sobre Nós**
+### Equipe de Desenvolvimento
 
-- Conheça nossa equipe e nossa missão.
-- Descubra o compromisso do ToperCursos com a qualidade e excelência educacional.
+![img](/image_readme/art2.png)
 
-### 5. **Ajuda**
+**Desenvolvedor:**
 
-- Perguntas frequentes para orientação rápida.
-- Opções de contato para suporte personalizado.
+- Marco A. da S. Mesquita
 
-### 6. **Sobre Privacidade**
+**Web Design:**
 
-- Detalhes sobre nossas políticas de privacidade.
-- Compromisso com a segurança e confidencialidade das informações dos usuários.
-
-## Equipe do Projeto
-
-### Desenvolvedor
-
-- [Marco A. da S. Mesquita](https://github.com/marco0antonio0)
-
-### Web Design
-
-- [Alexsandro F. Nascimento](https://github.com/AlexsandroFernandesNascimento)
-- [Marco A. da S. Mesquita](https://github.com/marco0antonio0)
+- Alexsandro F. Nascimento
 - Beatriz S. Lisboa
+- Marco A. da S. Mesquita
 
-### Modelagem Banco de Dados
+**Modelagem Banco de Dados:**
 
-- [Marco A. da S. Mesquita](https://github.com/marco0antonio0)
-- [Jean A. Dias](https://github.com/JeanArthurCostaDias)
+- Marco A. da S. Mesquita
+- Jean A. Dias
 
-## Tecnologias Utilizadas
+**Documentação:**
 
-- **Next.js:** Estrutura React para desenvolvimento web eficiente e rápido.
-- **API:** Atualizações contínuas e integração de dados para manter o conteúdo sempre relevante.
-- **Banco de Dados:** Armazenamento seguro e eficiente de informações críticas.
+- Alexsandro F. Nascimento
+- Jean A. Dias
 
-## Como Contribuir
+## Acesso à API
 
-1. Faça um fork do repositório.
-2. Clone o fork para sua máquina local.
-3. Crie uma branch para suas alterações.
-4. Faça as modificações desejadas.
-5. Envie um pull request para revisão.
+![img](/image_readme/art3.png)
 
-Estamos ansiosos para ver como você pode contribuir para tornar o ToperCursos ainda melhor!
+Para obter mais detalhes sobre a API utilizada no projeto, acesse o repositório [api-pokemons](https://github.com/marco0antonio0/api-pokemons).
 
-**Obrigado por escolher o ToperCursos - Onde o Conhecimento se Transforma em Poder!**
+Esperamos que o Projeto Pokedex proporcione uma experiência envolvente e educativa relacionada ao fascinante mundo dos Pokémon. Agradecemos pela oportunidade de compartilhar nosso trabalho.
+
+**Desenvolvedor por Marco A. da S. Mesquita**
+**Modelagem database por Jean Dias**.
