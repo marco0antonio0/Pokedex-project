@@ -1,0 +1,9 @@
+export default function LoadScreen() {
+  return (
+    <>
+      <div className="flex justify-center items-center h-400">
+        <div className="animate-spin rounded-full h-16 w-16 border-t-4 border-vermelho border-solid"></div>
+      </div>
+    </>
+  );
+}
