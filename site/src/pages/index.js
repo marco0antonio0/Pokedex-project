@@ -39,7 +39,7 @@ export default function Home() {
         {/*     Component appbar */}
         <AppBar state={[true, false, false]} />
         {data ? (
-          <div className="m-auto w-8/12 xxxl:w-10/12">
+          <div className="m-auto w-8/12 xxxl:w-5/12 xxl:w-6/12 xl:w-7/12 lg:w-8/12 md:w-9/12 sm:w-10/12">
             {/* ============================================== */}
             {/*               Component titulo */}
             <Titulo name="Navegação" />
