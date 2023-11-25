@@ -39,14 +39,17 @@ export default function Home() {
         {/*     Component appbar */}
         <AppBar state={[true, false, false]} />
         {data ? (
-          <div className="m-auto w-8/12 xxxl:w-5/12 xxl:w-6/12 xl:w-7/12 lg:w-8/12 md:w-9/12 sm:w-10/12">
+          <div className="m-auto w-10/12">
             {/* ============================================== */}
             {/*               Component titulo */}
             <Titulo name="Navegação" />
             {/* ============================================== */}
             {/*      Component grade de botões para */}
             {/*      acesso a site  */}
-            <GridComponents />
+            <div className="m-auto w-8/12 xxxl:w-7/12 xxl:w-8/12 xl:w-9/12 lg:w-10/12 md:w-11/12 sm:w-12/12">
+              <GridComponents />
+            </div>
+
             {/* ============================================== */}
             {/*               Component titulo */}
             <Titulo name="Pokemons - todos" />
